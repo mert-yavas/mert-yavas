@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">A passionate leaner from Turkey</h3>
-
+<img align="rigt" alt=Coding width="400" src="https://miro.medium.com/v2/resize:fit:960/0*UW1QswwxKTAyBlen.gif">
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mert-yavas&label=Profile%20views&color=0e75b6&style=flat" alt="mert-yavas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/coinformert" target="blank"><img src="https://img.shields.io/twitter/follow/coinformert?logo=twitter&style=for-the-badge" alt="coinformert" /></a> </p>
