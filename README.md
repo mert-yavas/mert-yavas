@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A passionate leaner from Turkey</h3>
+<h3 align="center">A passionate learner from Turkey</h3>
 <img align="rigt" alt=Coding width="400" src="https://miro.medium.com/v2/resize:fit:960/0*UW1QswwxKTAyBlen.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mert-yavas&label=Profile%20views&color=0e75b6&style=flat" alt="mert-yavas" /> </p>
