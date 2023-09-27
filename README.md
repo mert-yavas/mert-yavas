@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **mertneo@gmail.com**
+- 📫 How to reach me **mertcyavas@gmail.com**
 
 - ⚡ Fun fact **Hardworker , Learning like sponge**
 
