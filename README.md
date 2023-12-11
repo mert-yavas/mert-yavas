@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/coinformert" target="blank"><img src="https://img.shields.io/twitter/follow/coinformert?logo=twitter&style=for-the-badge" alt="coinformert" /></a> </p>
 
-- 🔭 I’m currently working on **CS50P**
 
 - 🌱 I’m currently learning **Python**
 
