@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/coinformert" target="blank"><img src="https://img.shields.io/twitter/follow/coinformert?logo=twitter&style=for-the-badge" alt="coinformert" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **mertcyavas@gmail.com**
 
